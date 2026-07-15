@@ -1,0 +1,12 @@
+# Data Preprocessing and Dataset Profiling
+
+This notebook performs initial preprocessing of a high-dimensional COVID-19 drug discovery dataset.
+
+The workflow includes:
+
+- Dataset loading
+- Data quality assessment
+- Missing value analysis
+- Feature categorization
+- Biological feature discovery
+- Dataset profiling
